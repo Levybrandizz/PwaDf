@@ -67,12 +67,13 @@ Modernizar o acesso à Ouvidoria do Distrito Federal, oferecendo uma solução w
 ---
 
 
-## 📹 Demonstração
+## 📹 Vídeo de Demonstração
 
-Confira o vídeo da solução em ação:
+Confira a solução funcionando, incluindo fluxo de áudio, chatbot IZA e acessibilidade:
 
-[![Vídeo Demo](https://img.youtube.com/vi/[link aqui]/maxresdefault.jpg)](https://youtu.be/link aq)
-> **Link:** [[https://youtu.be/link d video aq]](https://youtu.be/luPAt-AyAds)(https://youtu.be/link do video aq)
+[![Vídeo Demo](https://img.youtube.com/vi/luPAt-AyAds/0.jpg)](https://www.youtube.com/watch?v=luPAt-AyAds)
+
+> **Nota:** Clique na imagem acima ou acesse: [Link para o Vídeo no YouTube](https://www.youtube.com/watch?v=luPAt-AyAds)
 
 ---
 
