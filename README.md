@@ -121,7 +121,18 @@ Você pode executar o projeto de duas formas:
 *   VLibras para tradução automática para LIBRAS.
 *   Conformidade com WCAG 2.1 AA.
 
-## 🗂 Estrutura
+## 🗂 USO DE IA !!!
+  
+   Eu utilizei ajuda de IA para melhorar meu README, e fazer correções de erros e melhorias no meu projeto! >
+   Em conformidade com as regras de transparência e integridade do Edital do Hackathon, declaro que ferramentas de Inteligência Artificial Generativa (LLMs) foram utilizadas neste projeto como apoio auxiliar.
+   
+  ## Detalhamento do uso:
+         Refatoração de Código: Apoio na correção de bugs de sintaxe e otimização de funções JavaScript (ex: lógica do MediaRecorder).
+          Documentação: Auxílio na estruturação e redação deste README.md para garantir clareza e profissionalismo.
+            Simulação de Dados: Geração de textos de placeholder para o fluxo da assistente virtual.
+
+
+  
 ## 👨‍💻 Autor
 
 Levy Brandizzi
